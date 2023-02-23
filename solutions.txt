@@ -19,7 +19,8 @@
 16. wc -1 sed.txt
     cat sed.txt | c -1
 17. find -name "*lorem*" | wc -1
-18. now='Ernest'
-    echo "Today is $now"
-19. $ mkdir $now
-20. $ rmdir $now
+18. name='Ernest'
+    echo "Today is $name"
+22. $ mkdir $name
+23. $ rmdir $name
+24. Assignment completed with loads of help from teamates Ady and Jessie

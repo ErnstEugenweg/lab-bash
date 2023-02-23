@@ -1,6 +1,25 @@
-1. Ernest
-2.
-3.
-4.
-5.
-6.
+1. $ echo 'hello world'
+2. $ mkdir new_dir
+3. $ rmdir new_dir
+4. $ cp lorem/sed.txt lorem-copy/
+5. cp lorem/{lorem.txt,at.txt} lorem-copy/
+6. cd lorem 
+   $ start lorem.txt
+ 7.cd lorem 
+   $ start lorem.txt
+   $ start at.txt
+8. head -3 lorem.txt
+9. tail -3 lorem.txt
+10. echo "Homo homini lupus" >> lorem.txt
+11. start lorem.txt
+12. sed -i 's/et/ET/g' at.txt
+13. git congif user.nam
+14.pdw
+15. git ls-files *.txt
+16. wc -1 sed.txt
+    cat sed.txt | c -1
+17. find -name "*lorem*" | wc -1
+18. now='Ernest'
+    echo "Today is $now"
+19. $ mkdir $now
+20. $ rmdir $now
